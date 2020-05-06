@@ -9,6 +9,7 @@ let dukkan = [
     
     
 ];
+//burada obje içinde ki 2 array birleştirilip dukkan arrayinin içinde nasıl tek array olarak gösterilebilir.
 
 
 let btn1 = document.querySelector("#btnEkle");
