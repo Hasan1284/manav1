@@ -8,8 +8,10 @@ let dukkan = [
     {sebze : ["Patates", "Patlıcan", "Salatalık", "Pırasa"]},
     
     
-];
-//burada obje içinde ki 2 array birleştirilip dukkan arrayinin içinde nasıl tek array olarak gösterilebilir.
+];  //burada obje içinde ki 2 array birleştirilip dukkan arrayinin içinde nasıl tek array olarak gösterilebilir.
+
+
+
 
 
 let btn1 = document.querySelector("#btnEkle");
